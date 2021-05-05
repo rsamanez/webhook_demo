@@ -1,0 +1,97 @@
+[2021-05-05T10:20:29.236] [DEBUG] things - This little thing went to market
+[2021-05-05T10:20:29.239] [INFO] things - This little thing stayed at home
+[2021-05-05T10:20:29.239] [ERROR] things - This little thing had roast beef
+[2021-05-05T10:20:29.239] [FATAL] things - This little thing had none
+[2021-05-05T10:20:29.240] [TRACE] things - and this little thing went wee, wee, wee, all the way home.
+[2021-05-05T10:22:39.824] [INFO] things - [
+  'Accept',
+  'application/json',
+  'Content-Type',
+  'text/plain',
+  'User-Agent',
+  'PostmanRuntime/7.26.10',
+  'Cache-Control',
+  'no-cache',
+  'Postman-Token',
+  '1943e5c2-6454-4abe-a72c-f64e4b2f3558',
+  'Host',
+  'localhost:8080',
+  'Accept-Encoding',
+  'gzip, deflate, br',
+  'Connection',
+  'keep-alive',
+  'Content-Length',
+  '22'
+]
+[2021-05-05T10:24:02.373] [INFO] things - [
+  'Accept',
+  'application/json',
+  'Content-Type',
+  'text/plain',
+  'User-Agent',
+  'PostmanRuntime/7.26.10',
+  'Cache-Control',
+  'no-cache',
+  'Postman-Token',
+  'c10f9444-4d87-48c4-a145-5b5cd5b6f948',
+  'Host',
+  'localhost:8080',
+  'Accept-Encoding',
+  'gzip, deflate, br',
+  'Connection',
+  'keep-alive',
+  'Content-Length',
+  '22'
+]
+[2021-05-05T10:24:02.375] [INFO] things - /hook
+[2021-05-05T10:24:02.376] [INFO] things - Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/hook',
+  path: '/hook',
+  href: '/hook',
+  _raw: '/hook'
+}
+[2021-05-05T10:27:56.670] [INFO] Web-Hooks - [
+  'Accept',
+  'application/json',
+  'Content-Type',
+  'text/plain',
+  'User-Agent',
+  'PostmanRuntime/7.26.10',
+  'Cache-Control',
+  'no-cache',
+  'Postman-Token',
+  '17ec2297-82d8-4893-9221-ec6fc70eada2',
+  'Host',
+  'localhost:8080',
+  'Accept-Encoding',
+  'gzip, deflate, br',
+  'Connection',
+  'keep-alive',
+  'Content-Length',
+  '22'
+]
+[2021-05-05T10:27:56.673] [INFO] Web-Hooks - /hook
+[2021-05-05T10:27:56.674] [INFO] Web-Hooks - Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/hook',
+  path: '/hook',
+  href: '/hook',
+  _raw: '/hook'
+}

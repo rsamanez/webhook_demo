@@ -1,0 +1,36 @@
+[2021-05-05T10:27:56.670] [INFO] Web-Hooks - [
+  'Accept',
+  'application/json',
+  'Content-Type',
+  'text/plain',
+  'User-Agent',
+  'PostmanRuntime/7.26.10',
+  'Cache-Control',
+  'no-cache',
+  'Postman-Token',
+  '17ec2297-82d8-4893-9221-ec6fc70eada2',
+  'Host',
+  'localhost:8080',
+  'Accept-Encoding',
+  'gzip, deflate, br',
+  'Connection',
+  'keep-alive',
+  'Content-Length',
+  '22'
+]
+[2021-05-05T10:27:56.673] [INFO] Web-Hooks - /hook
+[2021-05-05T10:27:56.674] [INFO] Web-Hooks - Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/hook',
+  path: '/hook',
+  href: '/hook',
+  _raw: '/hook'
+}
